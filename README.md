@@ -6,7 +6,7 @@
 *[0007-BASH-gnp-Git_New_Project_to_GitHub](https://github.com/LDdvlp/0007-BASH-gnp-Git_New_Project_to_GitHub)*
 1. `gpp` - **Git Push Project to GitHub** : Pousser le **nouveau** dépôt local vers le dépôt distant du même nom, préalablement créé : `gpp repositoryName`.
 *[0008-BASH-gpp-Git_Push_Project_to_GitHub](https://github.com/LDdvlp/0008-BASH-gpp-Git_Push_Project_to_GitHub)*
-1. `gcp` - **Git Commit Project to GitHub** : Pousser le dépôt local **modifié** vers le dépôt distant du même nom, préalablement créé : `gpp repositoryName`. 
+1. `gcp` - **Git Commit Project to GitHub** : Pousser le dépôt local **modifié** vers le dépôt distant du même nom, préalablement créé : `gcp commitMessage`. 
 *[0009-BASH-gcp-Git_Commit_Project_to_GitHub](https://github.com/LDdvlp/0009-BASH-gcp-Git_Commit_Project_to_GitHub)*
 1. `gvl` -  - **Git Version Latest** : affiche le dernier numéro de version de Git disponible sur le site : `gvl`.
 *[0010-BASH-gvl-Dernier_numero_version_Git_du_website](https://github.com/LDdvlp/0010-BASH-gvl-Dernier_numero_version_Git_du_website)*
