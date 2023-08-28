@@ -17,7 +17,7 @@
 
 |Commande|`gnp`|`gpp`|`gcp`|
 |:---:|---|---|---|
-|**Titre**|**Git New Project to GitHub**|**Git Add Project to GitHub**|**Git Add Commit Push Project to GitHub**|
+|**Titre**|**Git New Project to GitHub**|**Git Push Project to GitHub**|**Git Commit Project to GitHub**|
 |**Fichier**|`gnp.sh`|`gpp.sh`|`gcp.sh`|
 |**Usage**<br />(Pas de guillemet !)|`gnp repositoryName`|`gpp repositoryName`|`gcp commitMessage`|
 |**Instructions**|1. Création dossier<br />2. Aller dans dossier<br />3. Renseignement du README avec le nom du dossier en titre h1<br />4. Initialisation Git<br />5. Ajout à l'index<br />6. Commit<br />7. Création branche `main` et remplacement en force de la branche `master`<br />8. Connexion au dépôt<br />9. Envoi des données et mise à jour du dépôt|1. ***Le dossier existe***<br />2. ***On est dans le dossier***<br />3. Renseignement du README avec le nom du dossier en titre h1<br />4. Initialisation Git<br />5. Ajout à l'index<br />6. Commit<br />7. Création branche `main` et remplacement en force de la branche `master`<br />8. Connexion au dépôt<br />9. Envoi des données et mise à jour du dépôt|1. ***Le dossier existe***<br />2. ***On est dans le dossier***<br />3. ***Le README est déjà renseigné***<br />4. ***Git est déjà initialisé***<br />5. Ajout à l'index<br />6. Commit<br />7. **La  branche `main` est déjà créée et on est dessus**<br />8. ***Le dépôt est déjà connecté***<br />9. Envoi des données et mise à jour du dépôt|
